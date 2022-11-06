@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nazeri1
-- 👀 I’m interested in Web development, and Cyber security
-- 🌱 I’m currently learning JavaScript self thought, and also trying to finish my BA/BS in Internet/Digital Media. 
-- 💞️ I’m looking to collaborate on Software development and structer.
+- 👀 I’m interested in Web development and Cyber security
+- 🌱 I’m currently learning JavaScript self-thought, and trying to finish my BA/BS in Internet/Digital Media. 
+- 💞️ I’m looking to collaborate on Software development and structure.
 - 📫 How to reach me frednazeri@gmail.com.
 
 <!---
